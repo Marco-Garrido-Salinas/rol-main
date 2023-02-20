@@ -1,11 +1,7 @@
-# Obsidian Notes
+# Reseña de campaña
+## Las minas perdidas de Phandelver
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Los aventureros viajan desde Neverwinter a Phandalin realizando un encargo para **Gundred Rockseeker**, el enano minero. En el camino son emboscados, Gundred es raptado y Los aventureros regresan con **Selin Hallwinter** a Phandalín.
+Durante vuestra estadía tuvieron conflictos con los Capa Carmesí, una banda de rufianes liderada por un individuo conocido como **Báculo de Cristal**, que tenían tomado el ex asentameinto minero por la fuerza.
+Los aventureros se vieron envueltos en los conflictos de Phandalín con los Capa Carmesí, lo que termina cuando logran desmantelar a la banda cuyo centro de operaciones era la Mansión Tressendar. Este eventó resultó con el escape de Báculo de Cristal. Esto resultó en una umento sustantivo de su reputación y conocimiento en los alrededores, además de conseguir la confianza (menos de un par) de **Selin Hallwinter** y la **Hermana Garael**, integrantes de la Alianza de los Lores y Los Arpistas, respectivamente.
+Luego de recabar información en los eventos en Pahndalin, Las ruinas de Conyberry, el Pueblo de Thundertree y alrededores, nuestros ahora héroes se han percataron de que están inmersos en un trama compleja. Un poder en las sombras conocido como araña negra busca hacerce con un poder ancestral escondido en las **Cavernas del Eco**, y los tiene en la mira como una potencial amenaza a sus planes.
